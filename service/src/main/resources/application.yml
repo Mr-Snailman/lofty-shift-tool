@@ -1,0 +1,4 @@
+osrs.client:
+  user-agent: "Github: Mr-Snailman, mrsnailman2414@gmail.com; https://github.com/Mr-Snailman/lofty-shift-tool"
+  api:
+    uri: https://prices.runescape.wiki/api/v1/osrs
